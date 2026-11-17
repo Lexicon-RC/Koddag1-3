@@ -1,0 +1,9 @@
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+        "noEmit": false,
+        "outDir": "demo-js",
+        "rootDir": "src",
+        "rewriteRelativeImportExtensions": true
+    }
+}
